@@ -2,7 +2,7 @@ Compiled code for my personal website.
 
 Technologies used:
 
-- reactj
+- reactjs
 - react-router
 - webpack v4
 - babel
